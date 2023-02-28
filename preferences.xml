@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+<movie>Doctor Strange</movie>
+<series>The Mentalist</series>
+<food>cheese</food>
+<season>summer</season>
+ <country>
+  <on_trip>Italy<on_trip>
+  <to_visit>UK<to_visit>
+  <to_stay_for_a_while>Spain<to_stay_for_a_while>
+  <my_native>Belarus<my_native>
+ </country>
+</preferences>

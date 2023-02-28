@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<git>gitbash_github</git>
+<client-server_architecture>http_requests_http_responses_web-server_web-client_http_status_codes</client-server_architecture>
+<sql_queries>commands</sql_queries>
+<api_testing>postman</api_testing>
+<traffic_sniffing>charles_fiddler</traffic_sniffing>
+<devtools>basic_skills</devtools>
+<vpn>instruments</vpn>
+<load_testing>jmetr</load_testing>
+<mobile_testing>basic_knowledge</mobile_testing>
+<python>basic_knowledge</python>
+<theory>documentation</theory>
+</skills>
